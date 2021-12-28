@@ -5,6 +5,9 @@
 # 忽略后缀为.o和.a的文件
 *.[ao]
 
-#
+# 忽略 .DS_Store 文件
 .DS_Store
+
+# 忽略 .out 文件
+*.out
 
